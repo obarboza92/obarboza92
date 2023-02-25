@@ -101,6 +101,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+		text-align: center;
         flex-direction: column;
       }
       ul {
@@ -195,19 +196,16 @@
         </h1>
         <section class='items'>
           <ul>
+			<br/>
             <li>Network / Software Engineer</li>
+			<br/>
+			<a><span class='hi'>👋🏻</span></a>
+			<a><span class='hi'>👋🏻</span></a>
+			<br/>
+			<br/>
+			<br/>
+			<a> 👇🏻 Details 👇🏻</a>
           </ul>
-          <div>
-			<a><span class='hi'>👋🏻</span></a>
-			<a></a>
-			<a href="https://www.linkedin.com/in/orlando-barboza/">💼</a>
-			<a href="mailto:orlando@obarboza.me">✉️</a>
-            <a href="mailto:orlando.barboza92@gmail.com">📧</a>
-			<a href="https://wa.me/50688707690">📲</a>
-			<a href="https://www.instagram.com/obarbozab/">🖼️</a>
-			<a></a>
-			<a><span class='hi'>👋🏻</span></a>
-          </div>
         </section>
       </div>
     </div>
