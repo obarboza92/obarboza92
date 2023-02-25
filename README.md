@@ -4,7 +4,7 @@
   </a>
 </div>
 <div style="width: 100%;">
- 	<a href="https://www.linkedin.com/in/orlando-barboza/"><font size="+2">💼</font></a>
+ 	<a text-align: center href="https://www.linkedin.com/in/orlando-barboza/">💼</a>
 	<a href="mailto:orlando@obarboza.me">✉️</a>
         <a href="mailto:orlando.barboza92@gmail.com">📧</a>
 	<a href="https://wa.me/50688707690">📲</a>
