@@ -16,11 +16,7 @@
 </ul>	
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&show_icons=true&theme=dark&hide=prs)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![My Skills](https://skillicons.dev/icons?i=py)
