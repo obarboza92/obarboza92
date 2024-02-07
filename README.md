@@ -15,3 +15,4 @@
 	<li>Twitter: <a href="https://twitter.com/Flecha92">#️⃣</a></li>
 </ul>	
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
