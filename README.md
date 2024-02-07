@@ -16,7 +16,7 @@
 </ul>	
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&hide=prs&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obarboza92&show_icons=true&show=reviews,discussions_started,discussions_answered&hide=prs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obarboza92&layout=compact&theme=dark)
 
 
